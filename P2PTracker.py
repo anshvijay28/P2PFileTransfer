@@ -6,10 +6,6 @@ import hashlib
 import time
 import logging
 
-
-# TODO: Implement P2PTracker
-
-
 def handle_peer(peer):
     try:
         while True:
